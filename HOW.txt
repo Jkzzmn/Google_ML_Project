@@ -1,0 +1,9 @@
+가상환경 입장 및 퇴장
+1.bash
+2.cd desktop/tensorflow_test
+3.source venv_tf/bin/activate
+4.deactivate
+
+중요한 것!
+-아키텍쳐 CNN , RNN, Seq2Seq, Transformer
+-어떤 프레임 워크로 구현할지.
