@@ -1,6 +1,6 @@
 가상환경 입장 및 퇴장
 1.bash
-2.cd desktop/tensorflow_test
+2.cd desktop/tensorflow_test/Google_ML_Project
 3.source venv_tf/bin/activate
 4.deactivate
 
